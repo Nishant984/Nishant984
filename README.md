@@ -59,7 +59,6 @@ I enjoy building things from scratch, solving algorithmic challenges, and explor
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe%20lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
