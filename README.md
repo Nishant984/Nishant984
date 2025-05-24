@@ -16,17 +16,6 @@ I enjoy building things from scratch, solving algorithmic challenges, and explor
 
 ---
 
-📦 **Projects I've worked on:**
-
-- 🚀 **[CUCU-Compiler](https://github.com/Nishant984/CUCU-Compiler)** – A compiler for a toy programming language written in C++, featuring parsing, semantic analysis, and IR generation.
-- 🌐 **[Guest House Management App](https://github.com/Nishant984/guest-house-app)** – A full-stack app for guest house bookings, built using Jetpack Compose (Android) and a Railway-hosted Node.js backend.
-- 🛠 **[RISC-V_Assembler](https://github.com/Nishant984/RISC-V_Assembler)** – Converts RISC-V assembly code to machine code (`.mc`) using Assembly. Based on the Venus simulator.
-- ⚙️ **[ChampSim](https://github.com/Nishant984/ChampSim)** – Simulates cache remapping and processor performance behavior using C++.
-- 🌲 **[Quad_Tree](https://github.com/Nishant984/Quad_Tree)** – C++ implementation of a quad tree with KNN search, range queries, and bulk loading.
-- ✈️ **[Travel Booking Mockup](https://github.com/Nishant984/travel-booking-mockup)** – A responsive mini web app using React, Tailwind CSS, and Firebase Firestore for mock travel stay booking. Optional Google Sign-In and blog section included.
-
----
-
 🌐 **Socials**
 
 <p align="left">
